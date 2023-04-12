@@ -1,0 +1,25 @@
+h1{
+    font-size: 120px;
+    color: green;
+    background-color: black;
+    font-family: arial;
+}
+
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+#texto1{
+    font-size: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+TABLE{
+    
+    border-collapse: collapse;
+}
+td{
+    border: 3px solid blue;
+}
