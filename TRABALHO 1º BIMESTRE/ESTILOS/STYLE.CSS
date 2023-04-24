@@ -1,0 +1,42 @@
+
+.container{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    background-color: white;
+    font-family: sans-serif;
+    
+}
+.container img{
+    width: 50%;
+}
+.FIA{
+ position: alignleft;
+    
+}
+.titulo{
+    font-size: 30px;
+}
+table{
+    background-color: rgb(172, 170, 170);
+    width: 500px;
+    height: 500px;
+    font-family: sans-serif;
+    color: rgb(247, 31, 31);
+    border: 0;
+    margin: 0;
+}
+table img{
+    width: 30px;
+}
+
+.cordalinha1{
+    background-color: white;
+}
+.Black{
+    color: white;
+    background-color: rgb(223, 42, 42);
+    
+}
