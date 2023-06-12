@@ -1,0 +1,8 @@
+div{
+    font-family: arial;
+    font-size: 24px;
+    width: 100vw;
+    height: 200px;
+    background-color: lightskyblue;
+    position: relative;
+}

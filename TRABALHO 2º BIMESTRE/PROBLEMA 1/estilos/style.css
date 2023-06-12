@@ -1,0 +1,13 @@
+div{
+    width: 100vw;
+    height: 200px;
+    font-family: arial;
+    font-size: 12px;
+    color: black;
+    background-color:rgb(237, 248, 248);
+
+
+}
+.resultado{
+    font-size: 30px;
+}
